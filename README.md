@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jianastrero/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -81,9 +75,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/jianastrero/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/jianastrero/jianastrero/output/snake.svg" alt="Snake animation" />
 
 ###
